@@ -1,0 +1,1 @@
+This is the version without shaders, ideal for low-end PC/Mobile or those that do not directly support this addition
